@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.boton {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", "sans-serif";    
+}
+
+.boton.izquierdo {
+    background-color: black;
+    color: white;
+}
+
+.boton.derecho {
+    background-color: yellow ;
+    color: black ;
+}
